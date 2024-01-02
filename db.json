@@ -1,0 +1,605 @@
+{
+  "Categories": [
+    {
+      "id": 3,
+      "title": "Bags",
+      "desc": "Bags products",
+      "image_slug": "bags-image"
+    },
+    {
+      "id": 4,
+      "title": "Decoration",
+      "desc": "Decoration products",
+      "image_slug": "decoration-image"
+    },
+    {
+      "id": 5,
+      "title": "Essentials",
+      "desc": "Essentials products",
+      "image_slug": "essentials-image"
+    },
+    {
+      "id": 6,
+      "title": "Interior",
+      "desc": "Interior products",
+      "image_slug": "interior-image"
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "title": "Laptop Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?laptop",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?laptop",
+        "https://source.unsplash.com/random/900×700/?laptop"
+      ],
+      "price": 300,
+      "date": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "title": "Omuz Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?shoulderbag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?shoulderbag",
+        "https://source.unsplash.com/random/900×700/?shoulderbag"
+      ],
+      "price": 200,
+      "date": "2023-01-02"
+    },
+    {
+      "id": 3,
+      "title": "El Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?handbag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?handbag",
+        "https://source.unsplash.com/random/900×700/?handbag"
+      ],
+      "price": 150,
+      "date": "2023-01-03"
+    },
+    {
+      "id": 4,
+      "title": "Seyahat Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?travelbag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?travelbag",
+        "https://source.unsplash.com/random/900×700/?travelbag"
+      ],
+      "price": 500,
+      "date": "2023-01-04"
+    },
+    {
+      "id": 5,
+      "title": "Sırt Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?backpack",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?backpack",
+        "https://source.unsplash.com/random/900×700/?backpack"
+      ],
+      "price": 400,
+      "date": "2023-01-05"
+    },
+    {
+      "id": 6,
+      "title": "Plaj Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?beachbag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?beachbag",
+        "https://source.unsplash.com/random/900×700/?beachbag"
+      ],
+      "price": 250,
+      "date": "2023-01-06"
+    },
+    {
+      "id": 7,
+      "title": "İş Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?workbag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?workbag",
+        "https://source.unsplash.com/random/900×700/?workbag"
+      ],
+      "price": 600,
+      "date": "2023-01-07"
+    },
+    {
+      "id": 8,
+      "title": "Okul Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?schoolbag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?schoolbag",
+        "https://source.unsplash.com/random/900×700/?schoolbag"
+      ],
+      "price": 350,
+      "date": "2023-01-08"
+    },
+    {
+      "id": 9,
+      "title": "Anne Bebek Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?bag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?bag",
+        "https://source.unsplash.com/random/900×700/?bag"
+      ],
+      "price": 700,
+      "date": "2023-01-09"
+    },
+    {
+      "id": 10,
+      "title": "Spor Çantası",
+      "image": "https://source.unsplash.com/random/900×700/?sportbag",
+      "categoryid": 3,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?sportbag",
+        "https://source.unsplash.com/random/900×700/?sportbag"
+      ],
+      "price": 450,
+      "date": "2023-01-10"
+    },
+    {
+      "id": 11,
+      "title": "Duvar Resmi",
+      "image": "https://source.unsplash.com/random/900×700/?wallart",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?wallart",
+        "https://source.unsplash.com/random/900×700/?wallart"
+      ],
+      "price": 100,
+      "date": "2023-01-11"
+    },
+    {
+      "id": 12,
+      "title": "Ayna",
+      "image": "https://source.unsplash.com/random/900×700/?mirror",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?mirror",
+        "https://source.unsplash.com/random/900×700/?mirror"
+      ],
+      "price": 200,
+      "date": "2023-01-12"
+    },
+    {
+      "id": 13,
+      "title": "Bitki",
+      "image": "https://source.unsplash.com/random/900×700/?plant",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?plant",
+        "https://source.unsplash.com/random/900×700/?plant"
+      ],
+      "price": 50,
+      "date": "2023-01-13"
+    },
+    {
+      "id": 14,
+      "title": "Şamdan",
+      "image": "https://source.unsplash.com/random/900×700/?candlestick",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?candlestick",
+        "https://source.unsplash.com/random/900×700/?candlestick"
+      ],
+      "price": 150,
+      "date": "2023-01-14"
+    },
+    {
+      "id": 15,
+      "title": "Hediyelik Eşya",
+      "image": "https://source.unsplash.com/random/900×700/?gift",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?gift",
+        "https://source.unsplash.com/random/900×700/?gift"
+      ],
+      "price": 30,
+      "date": "2023-01-15"
+    },
+    {
+      "id": 16,
+      "title": "Masa Lambası",
+      "image": "https://source.unsplash.com/random/900×700/?desklamp",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?desklamp",
+        "https://source.unsplash.com/random/900×700/?desklamp"
+      ],
+      "price": 100,
+      "date": "2023-01-16"
+    },
+    {
+      "id": 17,
+      "title": "Koltuk",
+      "image": "https://source.unsplash.com/random/900×700/?couch",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?couch",
+        "https://source.unsplash.com/random/900×700/?couch"
+      ],
+      "price": 500,
+      "date": "2023-01-17"
+    },
+    {
+      "id": 18,
+      "title": "Yastık",
+      "image": "https://source.unsplash.com/random/900×700/?pillow",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?pillow",
+        "https://source.unsplash.com/random/900×700/?pillow"
+      ],
+      "price": 50,
+      "date": "2023-01-18"
+    },
+    {
+      "id": 19,
+      "title": "Halı",
+      "image": "https://source.unsplash.com/random/900×700/?carpet",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?carpet",
+        "https://source.unsplash.com/random/900×700/?carpet"
+      ],
+      "price": 1000,
+      "date": "2023-01-19"
+    },
+    {
+      "id": 20,
+      "title": "Perde",
+      "image": "https://source.unsplash.com/random/900×700/?curtains",
+      "categoryid": 4,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?curtains",
+        "https://source.unsplash.com/random/900×700/?curtains"
+      ],
+      "price": 200,
+      "date": "2023-01-20"
+    },
+    {
+      "id": 21,
+      "title": "Yiyecek",
+      "image": "https://source.unsplash.com/random/900×700/?food",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?food",
+        "https://source.unsplash.com/random/900×700/?food"
+      ],
+      "price": 10,
+      "date": "2023-01-21"
+    },
+    {
+      "id": 22,
+      "title": "İçecek",
+      "image": "https://source.unsplash.com/random/900×700/?drink",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?drink",
+        "https://source.unsplash.com/random/900×700/?drink"
+      ],
+      "price": 5,
+      "date": "2023-01-22"
+    },
+    {
+      "id": 23,
+      "title": "Sabun",
+      "image": "https://source.unsplash.com/random/900×700/?soap",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?soap",
+        "https://source.unsplash.com/random/900×700/?soap"
+      ],
+      "price": 5,
+      "date": "2023-01-23"
+    },
+    {
+      "id": 24,
+      "title": "Diş Macunu",
+      "image": "https://source.unsplash.com/random/900×700/?toothpaste",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?toothpaste",
+        "https://source.unsplash.com/random/900×700/?toothpaste"
+      ],
+      "price": 10,
+      "date": "2023-01-24"
+    },
+    {
+      "id": 25,
+      "title": "Diş Fırçası",
+      "image": "https://source.unsplash.com/random/900×700/?toothbrush",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?toothbrush",
+        "https://source.unsplash.com/random/900×700/?toothbrush"
+      ],
+      "price": 5,
+      "date": "2023-01-25"
+    },
+    {
+      "id": 26,
+      "title": "Şampuan",
+      "image": "https://source.unsplash.com/random/900×700/?shampoo",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?shampoo",
+        "https://source.unsplash.com/random/900×700/?shampoo"
+      ],
+      "price": 15,
+      "date": "2023-01-26"
+    },
+    {
+      "id": 27,
+      "title": "Duş Jeli",
+      "image": "https://source.unsplash.com/random/900×700/?showergel",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?showergel",
+        "https://source.unsplash.com/random/900×700/?showergel"
+      ],
+      "price": 10,
+      "date": "2023-01-27"
+    },
+    {
+      "id": 28,
+      "title": "Krem",
+      "image": "https://source.unsplash.com/random/900×700/?cream",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?cream",
+        "https://source.unsplash.com/random/900×700/?cream"
+      ],
+      "price": 20,
+      "date": "2023-01-28"
+    },
+    {
+      "id": 29,
+      "title": "Kağıt Havlu",
+      "image": "https://source.unsplash.com/random/900×700/?papertowel",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?papertowel",
+        "https://source.unsplash.com/random/900×700/?papertowel"
+      ],
+      "price": 5,
+      "date": "2023-01-29"
+    },
+    {
+      "id": 30,
+      "title": "Tuvalet Kağıdı",
+      "image": "https://source.unsplash.com/random/900×700/?toiletpaper",
+      "categoryid": 5,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?toiletpaper",
+        "https://source.unsplash.com/random/900×700/?toiletpaper"
+      ],
+      "price": 10,
+      "date": "2023-01-30"
+    },
+    {
+      "id": 31,
+      "title": "Mobilya",
+      "image": "https://source.unsplash.com/random/900×700/?furniture",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?furniture",
+        "https://source.unsplash.com/random/900×700/?furniture"
+      ],
+      "price": 1000,
+      "date": "2023-01-31"
+    },
+    {
+      "id": 32,
+      "title": "Elektronik",
+      "image": "https://source.unsplash.com/random/900×700/?electronic",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?electronic",
+        "https://source.unsplash.com/random/900×700/?electronic"
+      ],
+      "price": 2000,
+      "date": "2023-02-01"
+    },
+    {
+      "id": 33,
+      "title": "Işıklandırma",
+      "image": "https://source.unsplash.com/random/900×700/?light",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?light",
+        "https://source.unsplash.com/random/900×700/?light"
+      ],
+      "price": 500,
+      "date": "2023-02-02"
+    },
+    {
+      "id": 34,
+      "title": "Aksesuar",
+      "image": "https://source.unsplash.com/random/900×700/?accesuar",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?accesuar",
+        "https://source.unsplash.com/random/900×700/?accesuar"
+      ],
+      "price": 100,
+      "date": "2023-02-03"
+    },
+    {
+      "id": 35,
+      "title": "Halı ve Zemin Kaplama",
+      "image": "https://source.unsplash.com/random/900×700/?floor",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?floor",
+        "https://source.unsplash.com/random/900×700/?floor"
+      ],
+      "price": 1000,
+      "date": "2023-02-04"
+    },
+    {
+      "id": 36,
+      "title": "Duvar ve Tavan Kaplama",
+      "image": "https://source.unsplash.com/random/900×700/?wall",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?wall",
+        "https://source.unsplash.com/random/900×700/?wall"
+      ],
+      "price": 500,
+      "date": "2023-02-05"
+    },
+    {
+      "id": 37,
+      "title": "Boya ve Kaplama",
+      "image": "https://source.unsplash.com/random/900×700/?dye",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?dye",
+        "https://source.unsplash.com/random/900×700/?dye"
+      ],
+      "price": 200,
+      "date": "2023-02-06"
+    },
+    {
+      "id": 38,
+      "title": "Yapı Malzemeleri",
+      "image": "https://source.unsplash.com/random/900×700/?tool",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?tool",
+        "https://source.unsplash.com/random/900×700/?tool"
+      ],
+      "price": 1000,
+      "date": "2023-02-07"
+    },
+    {
+      "id": 39,
+      "title": "Süsleme ve Dekorasyon",
+      "image": "https://source.unsplash.com/random/900×700/?decoration",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?decoration",
+        "https://source.unsplash.com/random/900×700/?decoration"
+      ],
+      "price": 500,
+      "date": "2023-02-08"
+    },
+    {
+      "id": 40,
+      "title": "Bahçe ve Balkon",
+      "image": "https://source.unsplash.com/random/900×700/?balcony",
+      "categoryid": 6,
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?balcony",
+        "https://source.unsplash.com/random/900×700/?balcony"
+      ],
+      "price": 1000,
+      "date": "2023-02-09"
+    }
+  ],
+  "Users": [
+    {
+      "email": "fermis@gmail.com",
+      "password": "09071998",
+      "id": 3,
+      "wi": 1
+    }
+  ],
+  "Wishlists": [
+    {
+      "email": "fermis@gmail.com",
+      "products": [
+        {
+          "id": 2,
+          "title": "Omuz Çantası",
+          "image": "https://source.unsplash.com/random/900×700/?shoulderbag",
+          "categoryid": 3,
+          "gallery": [
+            "https://source.unsplash.com/random/900×700/?shoulderbag",
+            "https://source.unsplash.com/random/900×700/?shoulderbag"
+          ],
+          "price": 200,
+          "date": "2023-01-02"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "Blogs": [
+    {
+      "id": 1,
+      "title": "Tech Blog",
+      "short_desc": "Latest tech trends",
+      "long_desc": "In-depth articles on the latest technology",
+      "date": "2023-01-03",
+      "image": "https://source.unsplash.com/random/900×700/?shoulderbag"
+    },
+    {
+      "id": 2,
+      "title": "Fashion Blog",
+      "short_desc": "Trending fashion styles",
+      "long_desc": "Explore the latest fashion trends and styles",
+      "date": "2023-01-04",
+      "image": "https://source.unsplash.com/random/900×700/?shoulderbag"
+    }
+  ],
+  "Orders": [
+    {
+      "user_id": 3,
+      "products": [
+        {
+          "product": {
+            "id": 2,
+            "title": "Omuz Çantası",
+            "image": "https://source.unsplash.com/random/900×700/?shoulderbag",
+            "categoryid": 3,
+            "gallery": [
+              "https://source.unsplash.com/random/900×700/?shoulderbag",
+              "https://source.unsplash.com/random/900×700/?shoulderbag"
+            ],
+            "price": 200,
+            "date": "2023-01-02"
+          },
+          "quantity": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "user_id": 3,
+      "products": [
+        {
+          "product": {
+            "id": 2,
+            "title": "Omuz Çantası",
+            "image": "https://source.unsplash.com/random/900×700/?shoulderbag",
+            "categoryid": 3,
+            "gallery": [
+              "https://source.unsplash.com/random/900×700/?shoulderbag",
+              "https://source.unsplash.com/random/900×700/?shoulderbag"
+            ],
+            "price": 200,
+            "date": "2023-01-02"
+          },
+          "quantity": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "user_id": 3,
+      "products": [],
+      "id": 5
+    }
+  ]
+}
